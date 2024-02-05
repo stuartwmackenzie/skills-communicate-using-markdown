@@ -9,3 +9,7 @@ This training exercise is design to tach me how to use markdown. I have added ex
 
 (![GitHub logo](https://github.com/stuartwmackenzie/skills-communicate-using-markdown/assets/121238279/1c2b2d87-27d6-4600-93cd-e413dab08668)
 )
+
+``` javascript
+var myVar = "Hello, world!";
+```
